@@ -58,3 +58,5 @@ console.log("Jordan in caps:", firstName.toUpperCase());
 const firstNameUpper = firstName.toUpperCase();
 
 console.log("firstNameUpper:", firstNameUpper);
+
+
