@@ -6,7 +6,8 @@ const me = {
     specialty: "Java",
     sayHello: function () {
         console.log("Hello!");
-    }
+    },
+    hobbies: ["Books", "Games", "Sleeping"]
 }
 // me = "hello"; cannot reassign me but I can change its values
 
